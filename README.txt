@@ -1,6 +1,6 @@
 
 A few weeks ago, Google open sourced it's non-linear least squared solver.
-I decided to learn how to use it, and to teach a few others who may need
+I decided to learn how to use it, and to teach a few others who may 
 encounter a least squared problem.
 
 I wrote this code to learn how to use Ceres (and to learn how to use the QT Creator, but 
